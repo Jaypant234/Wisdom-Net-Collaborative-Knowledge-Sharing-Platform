@@ -111,7 +111,7 @@ to manage content, or `/admin/` for Django's built-in admin.
 Everything else (models, URLs, templates, static/media config) checked out:
 `python manage.py check` reports no issues, and the home, login, register,
 category, and dashboard/admin (redirect-to-login) routes all return correct
-status codes.
+status codes..
 
 ## Notes / Possible Next Steps
 
