@@ -39,7 +39,7 @@ Blog website/
 └── requirements.txt
 ```
 
-## Running the Project in VS Code
+## Running the Project in VS Code.
 
 ### 1. Open the folder
 Open the `Blog website` folder in VS Code (`File > Open Folder`).
